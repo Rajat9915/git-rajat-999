@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/git-react-999/static/css/main.f84545f4.chunk.css",
-    "main.js": "/git-react-999/static/js/main.e6f55c10.chunk.js",
-    "main.js.map": "/git-react-999/static/js/main.e6f55c10.chunk.js.map",
-    "runtime-main.js": "/git-react-999/static/js/runtime-main.daea2773.js",
-    "runtime-main.js.map": "/git-react-999/static/js/runtime-main.daea2773.js.map",
-    "static/js/2.5ff25694.chunk.js": "/git-react-999/static/js/2.5ff25694.chunk.js",
-    "static/js/2.5ff25694.chunk.js.map": "/git-react-999/static/js/2.5ff25694.chunk.js.map",
-    "index.html": "/git-react-999/index.html",
-    "precache-manifest.611617d74a6f98d7a41303ed8d4fccd0.js": "/git-react-999/precache-manifest.611617d74a6f98d7a41303ed8d4fccd0.js",
-    "service-worker.js": "/git-react-999/service-worker.js",
-    "static/css/main.f84545f4.chunk.css.map": "/git-react-999/static/css/main.f84545f4.chunk.css.map",
-    "static/js/2.5ff25694.chunk.js.LICENSE": "/git-react-999/static/js/2.5ff25694.chunk.js.LICENSE",
-    "static/media/click1.wav": "/git-react-999/static/media/click1.7a7930a2.wav",
-    "static/media/click2.wav": "/git-react-999/static/media/click2.fe0ded65.wav"
+    "main.css": "/git-rajat-999/static/css/main.afe80145.chunk.css",
+    "main.js": "/git-rajat-999/static/js/main.787120f2.chunk.js",
+    "main.js.map": "/git-rajat-999/static/js/main.787120f2.chunk.js.map",
+    "runtime-main.js": "/git-rajat-999/static/js/runtime-main.7d668367.js",
+    "runtime-main.js.map": "/git-rajat-999/static/js/runtime-main.7d668367.js.map",
+    "static/js/2.5fc9dfcb.chunk.js": "/git-rajat-999/static/js/2.5fc9dfcb.chunk.js",
+    "static/js/2.5fc9dfcb.chunk.js.map": "/git-rajat-999/static/js/2.5fc9dfcb.chunk.js.map",
+    "index.html": "/git-rajat-999/index.html",
+    "precache-manifest.5e90098d578843512e72dbd37d611532.js": "/git-rajat-999/precache-manifest.5e90098d578843512e72dbd37d611532.js",
+    "service-worker.js": "/git-rajat-999/service-worker.js",
+    "static/css/main.afe80145.chunk.css.map": "/git-rajat-999/static/css/main.afe80145.chunk.css.map",
+    "static/js/2.5fc9dfcb.chunk.js.LICENSE": "/git-rajat-999/static/js/2.5fc9dfcb.chunk.js.LICENSE",
+    "static/media/logo.svg": "/git-rajat-999/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.daea2773.js",
-    "static/js/2.5ff25694.chunk.js",
-    "static/css/main.f84545f4.chunk.css",
-    "static/js/main.e6f55c10.chunk.js"
+    "static/js/runtime-main.7d668367.js",
+    "static/js/2.5fc9dfcb.chunk.js",
+    "static/css/main.afe80145.chunk.css",
+    "static/js/main.787120f2.chunk.js"
   ]
 }
